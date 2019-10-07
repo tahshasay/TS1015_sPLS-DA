@@ -1,6 +1,11 @@
 # TS1015_sPLS-DA
 
-#These data and scripts are supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
+These data and scripts are supplement to:
+
+Say & Degnan (in 1st review) Molecular and behavioural evidence that interdependent photo- and chemo-sensory systems regulate larval settlement in a marine sponge. Molecular Ecology. 
+
+A preprint is available at: Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
+
 
 #To identify the genes that regulate larval settlement, based on light-dependent and age-related changes in gene expression, we used the multivariate sparse partial least squares discriminant analysis (sPLS-DA) (Lê Cao, Boitard, & Besse, 2011), implemented in the mixOmics package (Lê Cao, 2016) in R version 3.3.1 (R Core Team, 2016); see additional supplementary data on GitHub at https://github.com/tahshasay/TS1015_sPLS-DA. 
 
